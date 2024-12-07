@@ -1,0 +1,4 @@
+jupyter
+streamlit==1.40.0
+google-generativeai
+python-dotenv
